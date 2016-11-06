@@ -1,0 +1,43 @@
+//Comments are part of the game mechanics
+//Types of magic are Fire Magic, Water Magic, Ground Magic and Air Magic (Like Nations in Avatar)
+//Magic has knowledge points. The more knowledge points for your element, the more magic you can do.
+
+//Fire:
+//1 Point - Set things on fire by touching it
+//5 Points - Create a small fire in your palms
+//10 Points - Set things on fire from a distance
+//20 Points - Melt things from a distance
+//35 Points - Create any sized fire in your hands
+//50 Points - (In Rage Mode) Create a Fire Dragon
+//100 Points - Create and walk on flowing lava (+100 Speed) (7.5 Minute Use/1 Hour Cooldown)
+
+//Water:
+//1 Point - Cool anything down by touching it
+//5 Points - Create small waves
+//10 Points - Cool anything down from a distance
+//20 Points - Create big waves
+//40 Points - Turn things to ice by touching it
+//50 Points - Turn things to ice from a distance
+//75 Points - (In Rage Mode) Create a controllable hurricane/tsunami
+//100 Points - Walk on a flowing waterfall (+100 Speed) (7.5 Minute Use/1 Hour Cooldown)
+
+//Ground:
+//1 Point - Create small earthquakes by touching the ground
+//15 Points - Create any sized earthquakes by touching the ground
+//40 Points - Create any sized earthquakes from a distance
+//60 Points - Move rocks and earth from a distance
+//80 Points - (In Rage Mode) Spilt the ground in half?
+//100 Points - Walk on moving rocks (+100 Speed) (7.5 Minute Use/1 Hour Cooldown)
+
+//Air:
+//1 Point - Create a small gust of wind
+//5 Points - Make things levitate from a distance
+//12 Points - Make a small tornado
+//25 Points - Make any sized gust of wind
+//35 Points - Make a big tornado
+//60 Points - (In Rage Mode) Make a sword of air (Wind moving so fast it can cut through things)
+//100 Points - Walk on strong wind (+125 Speed) (7.5 Minute Use/1 Hour Cooldown)
+
+In this world, when your parents die, all of their magic powers get transferred down to their kids.
+This means that only one generation will have magic. Your father is been killed by a wizard with extraordinary powers.
+He sits a top a castle, made of nano-material. The castle is on the other side of the world, almost impossible to reach.
